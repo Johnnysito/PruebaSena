@@ -1,0 +1,1 @@
+SELECT * FROM agenda.tipos_telefono;
